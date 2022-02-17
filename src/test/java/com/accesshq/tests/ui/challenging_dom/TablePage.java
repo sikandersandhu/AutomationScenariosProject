@@ -1,4 +1,4 @@
-package com.accesshq.tests.ui;
+package com.accesshq.tests.ui.challenging_dom;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.NotFoundException;

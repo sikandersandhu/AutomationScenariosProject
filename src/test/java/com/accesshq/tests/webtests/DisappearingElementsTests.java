@@ -1,6 +1,6 @@
 package com.accesshq.tests.webtests;
 
-import com.accesshq.tests.ui.DisappearingElementsPageMenu;
+import com.accesshq.tests.ui.disappearing_elements.DisappearingElementsPageMenu;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

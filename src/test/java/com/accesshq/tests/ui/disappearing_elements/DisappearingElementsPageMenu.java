@@ -1,4 +1,4 @@
-package com.accesshq.tests.ui;
+package com.accesshq.tests.ui.disappearing_elements;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.ElementNotVisibleException;

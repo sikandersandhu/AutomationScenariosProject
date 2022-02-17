@@ -1,6 +1,6 @@
 package com.accesshq.tests.webtests;
 
-import com.accesshq.tests.ui.TablePage;
+import com.accesshq.tests.ui.challenging_dom.TablePage;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
